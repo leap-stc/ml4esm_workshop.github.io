@@ -62,32 +62,8 @@ July 26, 2024 or July 27, 2024 (TBD)
 
 Vienna, Austria
 
-# Workshop format
-
-This program consists of invited and contributed talks, two poster sessions, and
-a panel discussion. Talks and accepted papers will be viewable on YouTube and OpenReview, respectively.
-Links to papers, posters, and talks will be hosted on our website (see table below). Invited talks and panel
-discussion will be in-person. Contributed talks will be in-person or virtual, and the poster sessions will
-be in-person. Our invited speakers consists of both climate science and machine learning experts. The
-morning session consists of talks discussing areas where machine learning has already advanced climate
-science. The afternoon session consists of talks on SOTA machine learning techniques with high applicability to climate science. There are six invited 20 minute talks and six contributed 12 minute talks, with
-5 and 3 minutes for live Q&A, respectively. Questions for talks and the panel discussion will be taken
-in-person and virtually. All speakers have been confirmed. A schedule can be found in the table below.
-
-
 # Diversity Commitment
 
 We are dedicated to ensuring our workshop is accessible and welcoming to all. Speakers, panelists, and organizers for this workshop are composed of domain scientists and machine learning
 experts that span multiple countries and are balanced across gender. We seek contributions from all
 backgrounds, and we especially encourage submissions from underrepresented groups.
-
-# Previous related workshops
-
-The most similar workshops are the AI 4 Earth Sciences workshop hosted at
-NeurIPS in 2020 and the AI 4 Earth and Space Science workshop hosted at ICLR in 2022. There is some
-overlap with Climate Change AI’s Tackling Climate Change with Machine Learning NeurIPS and ICLR
-workshops (hosted since 2019) and the AI 4 Differential Equations workshop hosted this year at ICLR.
-The organizers of this workshop have been informed that Climate Change AI does not plan on hosting a
-workshop this year at ICML.
-
-This workshop distinguishes itself from previous workshops by orienting itself around a public competition meant to draw in machine learning experts on a well-defined, long-standing climate science problem using a dataset and paper accepted in the 2023 Neurips Datasets and Benchmarks track. This serves as a foothold for machine learning experts to help drive progress in other open problems in earth system modeling. We also intentionally invited experts at the direct intersection of physics (turbulent flow, molecular dynamics, etc.) and machine learning to provide fundamental, first-principles insight into the challenges of generalizing data-driven methods in the physical domain of climate models. Unlike previous workshops, our emphasis is on using advances in this intersection to accelerate the development of the next generation of climate models and bring much-needed clarity for our warming future. Finally, we expect that advances in machine learning methods made to allow them to dynamically and predictably interact with physical models have promising potential to push the field of AI itself forward in new and unexpected directions.
