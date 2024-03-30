@@ -10,7 +10,7 @@ table {
 
 
 .page-header {
-    background-color: var(--primary) !important; 
+    /*background-color: var(--primary) !important; */
     background-image: url("https://github.com/leap-stc/ml4esm-workshop/blob/gh-pages/_site/assets/css/background_sky.jpeg");
     background-size: cover;
     background-position: center top;
