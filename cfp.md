@@ -18,8 +18,8 @@ We are currently accepting submissions of short papers investigating machine lea
 - parameter estimation for climate models
 
 | **Submission link** | TBD |
-| **Submission opens** | TBD |
-| **Submission deadline** | TBD |
+| **Submission opens** | April 30, 2024 (23:59 AoE) |
+| **Submission deadline** | May 17, 2024 (23:59 AoE) |
 | **Notification date** | Monday, June 17, 2024 (23:59 AoE) |
 
 
