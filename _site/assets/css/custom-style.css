@@ -10,8 +10,8 @@ table {
 
 
 .page-header {
-    background-color: var(--primary) !important; 
-    background-image: url("background_sky.jpeg");
+    /*background-color: var(--primary) !important; */
+    background-image: url("./background_sky.jpeg");
     background-size: cover;
     background-position: center top;
 }
