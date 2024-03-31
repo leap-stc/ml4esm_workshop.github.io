@@ -17,7 +17,7 @@ We are currently accepting submissions of short papers investigating machine lea
 - anomaly detection
 - parameter estimation for climate models
 
-| **Submission link** | https://cmt3.research.microsoft.com/ML4ESM2024https://cmt3.research.microsoft.com/ML4ESM2024 |
+| **Submission link** | [https://cmt3.research.microsoft.com/ML4ESM2024](https://cmt3.research.microsoft.com/ML4ESM2024) |
 | **Submission opens** | April 30, 2024 (23:59 AoE) |
 | **Submission deadline** | May 17, 2024 (23:59 AoE) |
 | **Notification date** | Monday, June 17, 2024 (23:59 AoE) |
