@@ -17,6 +17,7 @@ atmospheric storms, clouds, turbulence, rainfall, and radiation inside E3SM-MMF,
 supported by the Department of Energy (DoE). With better models, we can bring greater clarity to the hazards associated 
 with our warming future and empower policymakers with the knowledge necessary to mitigate them.
 
+- [Link to Kaggle competition](https://www.kaggle.com/competitions/atmospheric-physics-using-ai/)
 - [Link to ClimSim Paper](https://arxiv.org/abs/2306.08754)
 - [Link to ClimSim Github Repo](https://github.com/leap-stc/ClimSim)
 - [Link to ClimSim HuggingFace](https://huggingface.co/LEAP)
