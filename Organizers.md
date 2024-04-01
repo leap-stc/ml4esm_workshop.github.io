@@ -101,11 +101,10 @@ climate simulations. He is a co-author and active maintainer for ClimSim and an 
 
 <p><a href="https://yongquan-qu.github.io">Yongquan Qu (he/him)</a> is a Ph.D. candidate at Columbia
 University. His primary research delves into the intersection of scientific machine learning and computational methods, aiming to enhance the modeling and understanding of turbulence in the atmospheric
-boundary layer. He also works on developing a hybrid framework that integrates probabilistic machine
-learning with data assimilation in the context of climate projections. He is a graduate research assistant
+boundary layer. He also works on developing a hybrid framework that integrates differentiable programming, probabilistic machine learning with data assimilation in the context of climate projections. He is a graduate research assistant
 of the NSF Science and Technology Center “Learning the Earth with Artificial Intelligence and Physics”
 (LEAP). He is also affiliated with the “Multiscale Machine Learning In Coupled Earth System Modeling”
-(M2LInES) project - an international collaborative project to improve climate models with scientific machine learning. He will be participating virtually.</p>
+(M2LInES) project.</p>
 
 <b>yq2340 [at] columbia [dot] edu</b>
 <b><a href="https://scholar.google.com/citations?hl=en&user=LnBGvRoAAAAJ">Google Scholar</a></b>
