@@ -9,13 +9,14 @@ title: Machine Learning for Earth System Modeling
 
 We are currently accepting submissions of short papers investigating machine learning techniques with the potential to advance earth system modelling. Topics include but are not limited to:
 
-- hybrid physics-ML climate modelling
-- full model emulation for weather and climate
-- differentiable climate modelling
-- dynamical downscaling
-- uncertainty quantification
-- anomaly detection
-- parameter estimation for climate models
+- Hybrid Physics-ML Weather and Climate Modelling
+- Full Model Emulation for Weather and Climate
+- Differentiable Weather and Climate Modelling
+- Dynamical Downscaling
+- Uncertainty Quantification
+- Anomaly Detection
+- Parameterization and Parameter Estimation for Weather and Climate Models
+- Data Assimilation
 
 | **Submission link** | [https://cmt3.research.microsoft.com/ML4ESM2024](https://cmt3.research.microsoft.com/ML4ESM2024) |
 | **Submission opens** | Tuesday, April 30, 2024 |
