@@ -24,9 +24,9 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 
 | Time             | Event                                                                                                      |              
 |:----------------|:-----------------------------------------------------------------------------------------------------------|
-| 9:00-9:10        | Introduction and Opening Remarks [[Jerry Lin](https://www.linkedin.com/in/jerry-lin-3a8801104/)]           |
+| 9:00-9:10        | Introduction and Opening Remarks [[Jerry Lin](https://jerrylin96.github.io/)]           |
 | 9:10-9:35         | *Advancing the Domain* Invited Talk [[Kara Lamb](https://datascience.columbia.edu/people/kara-lamb/)]  |                               | 
-| 9:35-10:00         | *Advancing the Domain* Invited Talk  [[Maria Molina](https://mariajmolina.github.io/)]   |
+| 9:35-10:00         | *Advancing the Domain* Invited Talk  [[Julia Kaltenborn](https://juliakaltenborn.github.io/)]   |
 | 10:00-10:25        | *Advancing the Domain* Invited Talk  [[Stephan Mandt](http://www.stephanmandt.com/)]   |
 | 10:25-11:15        | Poster Session 1 |
 | 11:15-12:00        | *Advancing the Domain* Contributed Talks (3) |
@@ -37,5 +37,5 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 | 1:45-2:35        | Poster Session 2 |          
 | 2:35-3:50        | *New Directions* Contributed Talks (3)          |
 | 3:50-4:00        | Coffee Break          |
-| 4:00-5:00        | Panel Discussion          |
+| 4:00-5:00        | Panel Discussion, moderated by [[Tian Zheng](http://www.stat.columbia.edu/~tzheng/)]          |
 End                                                                                                        | End                           |
