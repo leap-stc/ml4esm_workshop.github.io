@@ -58,7 +58,7 @@ This workshop directly addresses both of these challenges.
 
 ICML 2024
 
-July 26, 2024 or July 27, 2024 (TBD)
+Friday July 26, 2024
 
 Vienna, Austria
 
