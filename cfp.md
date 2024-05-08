@@ -20,10 +20,14 @@ We are currently accepting submissions of short papers investigating machine lea
 
 | **Submission link** | [https://cmt3.research.microsoft.com/ML4ESM2024](https://cmt3.research.microsoft.com/ML4ESM2024) |
 | **Submission opens** | Tuesday, April 30, 2024 |
-| **Submission deadline** | Friday, May 17, 2024 (23:59 AoE) |
+| **Submission deadline** | Friday, May 24, 2024 (23:59 AoE) |
 | **Notification date** | Monday, June 17, 2024 (23:59 AoE) |
 
 For further questions, please feel free to contact the organizers at ml4esmworkshop@gmail.com.
+
+# Best paper award
+
+The 2024 ML4ESM ICML workshop will have a best paper award and an accompanying cash prize of $3,000.
 
 # Submission requirements
 
