@@ -25,17 +25,17 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 | Time             | Event                                                                                                      |              
 |:----------------|:-----------------------------------------------------------------------------------------------------------|
 | 9:00-9:10        | Introduction and Opening Remarks [[Jerry Lin](https://jerrylin96.github.io/)]           |
-| 9:10-9:35         | *Advancing the Domain* Invited Talk [[Kara Lamb](https://datascience.columbia.edu/people/kara-lamb/)]  |                               | 
-| 9:35-10:00         | *Advancing the Domain* Invited Talk  [[Julia Kaltenborn](https://juliakaltenborn.github.io/)]   |
-| 10:00-10:25        | *Advancing the Domain* Invited Talk  [[Stephan Mandt](http://www.stephanmandt.com/)]   |
-| 10:25-11:15        | Poster Session 1 |
-| 11:15-12:00        | *Advancing the Domain* Contributed Talks (3) |
+| 9:10-9:35         | Invited Talk [[Kara Lamb](https://datascience.columbia.edu/people/kara-lamb/)]  |                               | 
+| 9:35-10:00         | Invited Talk  [[Julia Kaltenborn](https://juliakaltenborn.github.io/)]   |
+| 10:00-10:25        | Invited Talk  [[Stephan Mandt](http://www.stephanmandt.com/)]   |
+| 10:25-11:10       | Contributed Talks (3) |
+| 11:10-12:00        | Poster Session 1 |
 | 12:00-1:00        | Networking Lunch |
-| 1:00-1:15        | *New Directions* Invited Talk [[Aditi Krishnapriyan](https://a1k12.github.io/)] |
-| 1:15-1:30        | *New Directions* Invited Talk [[Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/)] |
-| 1:30-1:45        | *New Directions* Invited Talk [[David Rolnick](https://davidrolnick.com/)] |
-| 1:45-2:35        | Poster Session 2 |          
-| 2:35-3:50        | *New Directions* Contributed Talks (3)          |
-| 3:50-4:00        | Coffee Break          |
+| 1:00-1:25        | Invited Talk [[Aditi Krishnapriyan](https://a1k12.github.io/)] |
+| 1:25-1:50        | Invited Talk [[Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/)] |
+| 1:50-2:15        | Invited Talk [[David Rolnick](https://davidrolnick.com/)] |  
+| 2:15-3:00        | Contributed Talks (3)          |
+| 3:00-3:50        | Poster Session 2 |
+| 3:50-4:00        | Coffee Break |
 | 4:00-5:00        | Panel Discussion, moderated by [[Tian Zheng](http://www.stat.columbia.edu/~tzheng/)]          |
 End                                                                                                        | End                           |
