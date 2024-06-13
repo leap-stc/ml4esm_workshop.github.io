@@ -31,10 +31,10 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 | 10:25-11:10       | Contributed Talks (3) |
 | 11:10-12:00        | Poster Session 1 |
 | 12:00-1:00        | Networking Lunch |
-| 1:00-1:25        | Invited Talk [[Aditi Krishnapriyan](https://a1k12.github.io/)] |
-| 1:25-1:50        | Invited Talk [[Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/)] |
-| 1:50-2:15        | Invited Talk  [[Stephan Mandt](http://www.stephanmandt.com/)] |  
-| 2:15-3:00        | Contributed Talks (3)          |
+| 1:00-1:45        | Contributed Talks (3)          |
+| 1:45-2:10        | Invited Talk [[Aditi Krishnapriyan](https://a1k12.github.io/)] |
+| 2:10-2:35        | Invited Talk [[Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/)] |
+| 2:35-3:00        | Invited Talk  [[Stephan Mandt](http://www.stephanmandt.com/)] |  
 | 3:00-3:50        | Poster Session 2 |
 | 3:50-4:00        | Coffee Break |
 | 4:00-5:00        | Panel Discussion, moderated by [[Tian Zheng](http://www.stat.columbia.edu/~tzheng/)]          |
