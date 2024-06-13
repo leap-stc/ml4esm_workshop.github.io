@@ -34,21 +34,17 @@ Environmental Science.</p>
 </div>
 
 <div class="speaker">
-<h2>Stephan Mandt <br>(University of California, Irvine, US)</h2>
+<h2>David Rolnick <br>(McGill University & Mila Quebec AI Institute)</h2>
 
-<div class="speaker-img"><div style="background-image: url('photos/StephanMandt.jpg')"></div></div>
+<div class="speaker-img"><div style="background-image: url('photos/DavidRolnick.jpg')"></div></div>
 
-<p><a href="http://www.stephanmandt.com/">Stephan Mandt (he/him)</a> is an Associate Professor of Computer
-Science and Statistics at the University of California, Irvine. From 2016 until 2018, he was a Senior
-Researcher and Head of the statistical machine learning group at Disney Research in Pittsburgh and
-Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University.
-Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne, where he received the
-German National Merit Scholarship. He is furthermore a recipient of the NSF CAREER Award, the UCI
-ICS Mid-Career Excellence in Research Award, the German Research Foundation’s Mercator Fellowship,
-a Kavli Fellow of the U.S. National Academy of Sciences, a member of the ELLIS Society, and a former
-visiting researcher at Google Brain. Stephan is an Action Editor of the Journal of Machine Learning
-Research and Transaction on Machine Learning Research and currently serves as Program Chair for AIS-
-TATS 2024.</p>
+<p><a href="https://davidrolnick.com/">David Rolnick (he/him)</a> is an Assistant Professor and
+Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI
+Institute, where his work focuses on applications of machine learning to help address climate change. He
+is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital
+Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical
+Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was
+named to the MIT Technology Review’s 2021 list of “35 Innovators Under 35. </p>
 </div>
 
 <div class="speaker">
@@ -84,17 +80,22 @@ simulations. </p>
 </div>
 
 <div class="speaker">
-<h2>David Rolnick <br>(McGill University & Mila Quebec AI Institute)</h2>
+<h2>Stephan Mandt <br>(University of California, Irvine, US)</h2>
 
-<div class="speaker-img"><div style="background-image: url('photos/DavidRolnick.jpg')"></div></div>
+<div class="speaker-img"><div style="background-image: url('photos/StephanMandt.jpg')"></div></div>
 
-<p><a href="https://davidrolnick.com/">David Rolnick (he/him)</a> is an Assistant Professor and
-Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila Quebec AI
-Institute, where his work focuses on applications of machine learning to help address climate change. He
-is a Co-founder and Chair of Climate Change AI and Scientific Co-director of Sustainability in the Digital
-Age. Dr. Rolnick received his Ph.D. in Applied Mathematics from MIT. He is a former NSF Mathematical
-Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar, and was
-named to the MIT Technology Review’s 2021 list of “35 Innovators Under 35. </p>
+<p><a href="http://www.stephanmandt.com/">Stephan Mandt (he/him)</a> is an Associate Professor of Computer
+Science and Statistics at the University of California, Irvine. From 2016 until 2018, he was a Senior
+Researcher and Head of the statistical machine learning group at Disney Research in Pittsburgh and
+Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University.
+Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne, where he received the
+German National Merit Scholarship. He is furthermore a recipient of the NSF CAREER Award, the UCI
+ICS Mid-Career Excellence in Research Award, the German Research Foundation’s Mercator Fellowship,
+a Kavli Fellow of the U.S. National Academy of Sciences, a member of the ELLIS Society, and a former
+visiting researcher at Google Brain. Stephan is an Action Editor of the Journal of Machine Learning
+Research and Transaction on Machine Learning Research and currently serves as Program Chair for AIS-
+TATS 2024.</p>
 </div>
 
 </div>
+
