@@ -4,7 +4,6 @@ title: Machine Learning for Earth System Modeling
 ---
 ---
 
-
 # Call for papers
 
 We are currently accepting submissions of short papers investigating machine learning techniques with the potential to advance earth system modelling. Topics include but are not limited to:
@@ -38,3 +37,7 @@ Previously published work should not be submitted to this workshop. To be more p
 # Review Process
 
 The review process for this workshop is double-blind, and we are accumulating a pool of reviewers with relevant expertise. 
+
+# Accepted Papers
+
+
