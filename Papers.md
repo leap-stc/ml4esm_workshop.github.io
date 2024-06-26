@@ -4,40 +4,89 @@ title: Machine Learning for Earth System Modeling
 ---
 ---
 
-# Call for papers
+# Accepted papers
 
-We are currently accepting submissions of short papers investigating machine learning techniques with the potential to advance earth system modelling. Topics include but are not limited to:
+We have completed reviews for the 2024 ICML ML4ESM Workshop. Some of these papers can be found below (we are still waiting to receive Arxiv links from others):
 
-- Hybrid Physics-ML Weather and Climate Modelling
-- Full Model Emulation for Weather and Climate
-- Differentiable Weather and Climate Modelling
-- Dynamical Downscaling
-- Uncertainty Quantification
-- Anomaly Detection
-- Parameterization and Parameter Estimation for Weather and Climate Models
-- Data Assimilation
+----
 
-| **Submission link** | [https://cmt3.research.microsoft.com/ML4ESM2024](https://cmt3.research.microsoft.com/ML4ESM2024) |
-| **Submission opens** | Tuesday, April 30, 2024 |
-| **Submission deadline** | Friday, May 24, 2024 (23:59 AoE) |
-| **Notification date** | Monday, June 17, 2024 (23:59 AoE) |
+SRViT: Vision Transformers for Estimating
+Radar Reflectivity from Satellite Observations at Scale
 
-For further questions, please feel free to contact the organizers at ml4esmworkshop@gmail.com.
+Jason Stock, Kyle Hilburn, Imme Ebert-Uphoff, Charles Anderson
 
-# Best paper award
+https://arxiv.org/abs/2406.16955
 
-The 2024 ML4ESM ICML workshop will have a best paper award and an accompanying cash prize of $3,000.
+----
 
-# Submission requirements
+Using Neural Networks for Data Cleaning in Weather Datasets
 
-We welcome papers for up to **4 pages** in length, excluding reference and supplementary materials. See information on [Author Instructions](https://icml.cc/Conferences/2024/AuthorInstructions), [LaTeX style files](https://media.icml.cc/Conferences/ICML2024/Styles/icml2024.zip) and an [Example Paper](https://media.icml.cc/Conferences/ICML2023/Styles/example_paper.pdf). Please change the footnote to 'Under review at ICML 2024 Machine Learning for Earth System Modeling workshop'. Submissions must clearly articulate applications relevant to earth system modelling. Accepted papers will be invited to give poster presentations, and a total of six will be invited to give spotlight talks.
+Jack R. P. Hanslope, Laurence Aitchison
 
-Previously published work should not be submitted to this workshop. To be more precise, we will adhere to ICML's policy here: “It is not appropriate to submit papers that are identical (or substantially similar) to versions that have been previously published, accepted for publication, or submitted in parallel to other conferences or journals.”
+https://arxiv.org/abs/2406.15027
 
-# Review Process
+----
 
-The review process for this workshop is double-blind, and we are accumulating a pool of reviewers with relevant expertise. 
+Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network
 
-# Accepted Papers
+Zesheng Liu, Maryam Rahnemoonfar
 
+https://arxiv.org/abs/2406.15299
 
+----
+
+Valid Error Bars for Neural Weather Models using Conformal Prediction
+
+Vignesh Gopakumar, Joel Oskarrson, Ander Gray, Lorenzo Zanisi, Stanislas Pamela, Daniel Giles, Matt Kusner, Marc Deisenroth
+
+https://arxiv.org/abs/2406.14483
+
+----
+
+LUCIE: A Lightweight Uncoupled ClImate Emulator with long-term stability and physical consistency for O(1000)-member ensembles
+
+Haiwen Guan, Troy Arcomano, Ashesh Chattopadhyay, Romit Maulik
+
+https://arxiv.org/abs/2405.16297
+
+----
+
+Transfer Learning for Emulating Ocean Climate Variability across CO2 forcing (oral)
+
+Surya Dheeshjith, Adam Subel, Shubham Gupta, Alistair Adcroft, Carlos Fernandez-Granda, Julius Busecke, Laure Zanna
+
+https://arxiv.org/abs/2405.18585
+
+----
+
+ArchesWeather: An efficient AI weather forecasting model at 1.5° resolution
+
+Guillaume Couairon, Christian Lessig, Anastase Charantonis, Claire Monteleoni
+
+https://arxiv.org/abs/2405.14527v1
+
+----
+
+Probabilistic Emulation of a Global Climate Model with Spherical DYffusion (oral)
+
+Salva Rühling Cachay, Brian Henn, Oliver Watt-Meyer, Christopher S. Bretherton, Rose Yu
+
+https://arxiv.org/abs/2406.14798
+
+----
+
+A Generative Machine Learning Approach for Improving Precipitation from Earth System Models
+
+Philipp Hess, Niklas Boers
+
+https://arxiv.org/abs/2406.15026
+
+----
+
+Dynamic Basis Function Interpolation for Adaptive In Situ Data Integration in Ocean Modeling
+
+Derek DeSantis, Ayan Biswas Earl Lawrence, Phillip Wolfram
+
+https://arxiv.org/abs/2301.05551
+
+-----
