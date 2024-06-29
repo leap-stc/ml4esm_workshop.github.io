@@ -28,6 +28,12 @@ Zesheng Liu, Maryam Rahnemoonfar
 
 ----
 
+**[Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets (oral)](https://arxiv.org/abs/2406.15299)**
+
+Younghyun Koo, Maryam Rahnemoonfar
+
+----
+
 **[Valid Error Bars for Neural Weather Models using Conformal Prediction](https://arxiv.org/abs/2406.14483)**
 
 Vignesh Gopakumar, Joel Oskarrson, Ander Gray, Lorenzo Zanisi, Stanislas Pamela, Daniel Giles, Matt Kusner, Marc Deisenroth
@@ -69,3 +75,24 @@ Philipp Hess, Niklas Boers
 Derek DeSantis, Ayan Biswas Earl Lawrence, Phillip Wolfram
 
 -----
+
+**[Towards diffusion models for large-scale sea-ice modelling](https://arxiv.org/abs/2406.18417)**
+
+Tobias Sebastian Finn, Charlotte Durand, Alban Farchi, Marc Bocquet, Julien Brajard
+
+-----
+
+**[Learning Optimal Filters Using Variational Inference (oral)](https://arxiv.org/abs/2406.18066)**
+
+Enoch Luk, Eviatar Bach, Ricardo Baptista, Andrew Stuart
+
+-----
+
+**[Machine Learning Global Simulation of Nonlocal Gravity Wave Propagation (oral)](https://arxiv.org/abs/2406.14775)**
+
+Aman Gupta, Aditi Sheshadri, Sujit Roy, Vishal Gaur, Manil Maskey, Rahul Ramachandran
+
+-----
+
+
+
