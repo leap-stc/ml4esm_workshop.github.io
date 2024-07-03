@@ -94,5 +94,13 @@ Aman Gupta, Aditi Sheshadri, Sujit Roy, Vishal Gaur, Manil Maskey, Rahul Ramacha
 
 -----
 
+**[VarteX: Enhancing Weather Forecast through Distributed Variable Representation](https://arxiv.org/abs/2406.19615)**
+
+Ayumu Ueyama, Kazuhiko Kawamoto, Hiroshi Kera
+
+-----
+
+
+
 
 
