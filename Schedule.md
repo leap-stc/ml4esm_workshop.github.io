@@ -24,7 +24,7 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 
 | Time             | Event                                                                                                      |              
 |:----------------|:-----------------------------------------------------------------------------------------------------------|
-| 9:00-9:10        | Introduction and Opening Remarks [[Jerry Lin](https://jerrylin96.github.io/)]           |
+| 9:00-9:10        | Introduction and Opening Remarks [[Julius Busecke](https://jbusecke.github.io/)]           |
 | 9:10-9:35         | Invited Talk [[Kara Lamb](https://datascience.columbia.edu/people/kara-lamb/)]  |                               | 
 | 9:35-10:00         | Invited Talk  [[Julia Kaltenborn](https://juliakaltenborn.github.io/)]   |
 | 10:00-10:25        | Invited Talk [[David Rolnick](https://davidrolnick.com/)]   |
@@ -37,5 +37,5 @@ _All listed speakers have been confirmed._ The coffee breaks, poster sessions, Q
 | 2:35-3:00        | Invited Talk  [[Stephan Mandt](http://www.stephanmandt.com/)] |  
 | 3:00-3:50        | Poster Session 2 |
 | 3:50-4:00        | Coffee Break |
-| 4:00-5:00        | Panel Discussion, moderated by [[Tian Zheng](http://www.stat.columbia.edu/~tzheng/)]          |
-End                                                                                                        | End                           |
+| 4:00-5:00        | Panel Discussion, moderated by [[Candace Agonafir](https://water.columbia.edu/people/candace-m-agonafir)]          |
+| End              | End                                             |
