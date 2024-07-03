@@ -100,6 +100,11 @@ Ayumu Ueyama, Kazuhiko Kawamoto, Hiroshi Kera
 
 -----
 
+**[Latent Diffusion Model for Generating Ensembles of Climate Simulations](https://arxiv.org/abs/2406.19615)**
+
+Johannes Meuer, Maximilian Witte, Claudia Timmreck, Thomas Ludwig, Christopher Kadow
+
+-----
 
 
 
