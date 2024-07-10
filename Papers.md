@@ -28,7 +28,7 @@ Zesheng Liu, Maryam Rahnemoonfar
 
 ----
 
-**[Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets (oral)](https://arxiv.org/abs/2406.15299)**
+**[Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets (oral)](https://arxiv.org/abs/2406.18423)**
 
 Younghyun Koo, Maryam Rahnemoonfar
 
@@ -106,6 +106,16 @@ Johannes Meuer, Maximilian Witte, Claudia Timmreck, Thomas Ludwig, Christopher K
 
 -----
 
+**[A Likelihood-Based Generative Approach for Spatially Consistent Precipitation Downscaling](https://arxiv.org/abs/2407.04724)**
 
+Jose González-Abad
+
+-----
+
+**[A Physics-Informed Machine Learning Approach utilizing Multiband Satellite Data for Solar Irradiance Estimation](https://arxiv.org/abs/2407.04283)**
+
+Jun Sasaki, Maki Okada, Kenji Utsunomiya, Koji Yamaguchi
+
+-----
 
 
