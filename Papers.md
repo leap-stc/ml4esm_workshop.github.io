@@ -118,4 +118,9 @@ Jun Sasaki, Maki Okada, Kenji Utsunomiya, Koji Yamaguchi
 
 -----
 
+**[Graph Neural Networks and Spatial Information Learning for Post-Processing Ensemble Weather Forecasts (oral)](https://doi.org/10.5445/IR/1000172395)**
+
+Moritz Feik, Sebastian Lerch, Jan Stühmer
+
+-----
 
