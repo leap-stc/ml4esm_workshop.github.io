@@ -100,9 +100,9 @@ Ayumu Ueyama, Kazuhiko Kawamoto, Hiroshi Kera
 
 -----
 
-**[Latent Diffusion Model for Generating Ensembles of Climate Simulations](https://arxiv.org/abs/2406.19615)**
+**[Latent Diffusion Model for Generating Ensembles of Climate Simulations](https://arxiv.org/abs/2407.02070)**
 
-Johannes Meuer, Maximilian Witte, Claudia Timmreck, Thomas Ludwig, Christopher Kadow
+Johannes Meuer, Maximilian Witte, Tobias Sebastian Finn, Claudia Timmreck, Thomas Ludwig, Christopher Kadow
 
 -----
 
@@ -118,9 +118,15 @@ Jun Sasaki, Maki Okada, Kenji Utsunomiya, Koji Yamaguchi
 
 -----
 
-**[Graph Neural Networks and Spatial Information Learning for Post-Processing Ensemble Weather Forecasts (oral)](https://doi.org/10.5445/IR/1000172395)**
+**[Graph Neural Networks and Spatial Information Learning for Post-Processing Ensemble Weather Forecasts (oral)](https://arxiv.org/abs/2407.11050)**
 
 Moritz Feik, Sebastian Lerch, Jan Stühmer
+
+-----
+
+**[Evaluating the transferability potential of deep learning models for climate downscaling](https://arxiv.org/abs/2407.12517)**
+
+Ayush Prasad, Paula Harder, Qidong Yang, Prasanna Sattegeri, Daniela Szwarcman, Campbell Watson, David Rolnick
 
 -----
 
