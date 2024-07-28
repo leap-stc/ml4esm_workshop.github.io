@@ -6,8 +6,6 @@ title: Machine Learning for Earth System Modeling
 
 # Accepted papers
 
-We have completed reviews for the 2024 ICML ML4ESM Workshop. Some of these papers can be found below (we are still waiting to receive Arxiv links from others):
-
 ----
 
 **[SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale](https://arxiv.org/abs/2406.16955)**
@@ -58,7 +56,7 @@ Guillaume Couairon, Christian Lessig, Anastase Charantonis, Claire Monteleoni
 
 ----
 
-**[Probabilistic Emulation of a Global Climate Model with Spherical DYffusion (oral)](https://arxiv.org/abs/2406.14798)**
+**[Probabilistic Emulation of a Global Climate Model with Spherical DYffusion (oral, ML4ESM Best Paper Award Winner)](https://arxiv.org/abs/2406.14798)**
 
 Salva Rühling Cachay, Brian Henn, Oliver Watt-Meyer, Christopher S. Bretherton, Rose Yu
 
